@@ -20,6 +20,7 @@ export const Benefits = () => {
           initial={{opacity: 0, y: 0}}
           whileInView={{opacity: 1, y: 20}}
           viewport={{once: true}}
+          className="mb-8 text-3xl font-semibold"
           >
           Benefits
         </motion.h2>
